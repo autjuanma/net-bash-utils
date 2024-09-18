@@ -1,0 +1,11 @@
+/home/autmarisella/.[code]/.node/CLI/cy-hybrid-cli
+├── cypress
+│   ├── e2e
+│   ├── fixtures
+│   └── support
+├── manual-report
+├── reports
+└── test
+    └── specs
+
+9 directories
