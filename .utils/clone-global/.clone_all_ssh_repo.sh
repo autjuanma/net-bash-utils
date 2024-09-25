@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # settings / change this to your config
-remoteUser="SpectralAUT"
-localCodeDir="/home/usertty/.[code]/024_clean"
+remoteUser="juansitoAUT"
+localCodeDir="/home/autmarisella/.[code]/.users/juansitoAUT/"
 
 # create the local code directory if it doesn't exist
 if [ ! -d "$localCodeDir" ]; then
