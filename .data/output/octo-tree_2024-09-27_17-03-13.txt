@@ -1,0 +1,42 @@
+/home/autmarisella/.[code]/.manage/octokit-node-crud/
+├── crud
+│   ├── ockto-delete
+│   ├── ockto-update
+│   │   └── visibility
+│   │       ├── all-projects
+│   │       ├── by-owner
+│   │       └── by-var
+│   ├── oct-create
+│   │   └── repos
+│   ├── projects
+│   │   ├── create
+│   │   └── delete
+│   ├── secrets
+│   │   ├── by-repo
+│   │   ├── get-request
+│   │   └── update
+│   └── workflows
+│       ├── delete-req
+│       │   └── rm-token-read
+│       │       └── filter
+│       └── get-workflows
+├── transfer
+└── utils
+    ├── bash
+    │   └── visibility
+    │       ├── improve-visibility
+    │       └── powershell
+    ├── octo-graph
+    │   ├── graph-queries
+    │   └── octo-graph-test
+    ├── repo-utils
+    │   └── secrets
+    └── sec
+        ├── auth
+        │   ├── token-bash
+        │   │   └── prod
+        │   └── types-of-authentication 
+        │       └── gh-login
+        └── sec
+
+40 directories
